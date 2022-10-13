@@ -63,7 +63,7 @@ plt.show()
 
 ![image](https://github.com/NYasaswini/Find-the-best-fit-line-using-Least-Squares-Method/blob/6b93b5acf8eb240dfa677f317046a76f62608053/WhatsApp%20Image%202022-10-13%20at%2011.18.05%20AM.jpeg)
 
-![image](![image](https://user-images.githubusercontent.com/114219474/195513529-db1cc0a6-6092-481e-8fdd-104b1d14e761.png)
+![image](https://user-images.githubusercontent.com/114219474/195513529-db1cc0a6-6092-481e-8fdd-104b1d14e761.png)
 
 
 ## Result:
