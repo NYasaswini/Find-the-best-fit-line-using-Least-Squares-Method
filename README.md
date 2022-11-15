@@ -51,6 +51,8 @@ plt.show()
 
 ## Output:
 ![image](https://github.com/NYasaswini/Find-the-best-fit-line-using-Least-Squares-Method/blob/fcecdf79185b5503b92f5b275661b95db2862bfb/WhatsApp%20Image%202022-11-15%20at%2021.27.57.jpg)
+
+
 ![image](https://github.com/NYasaswini/Find-the-best-fit-line-using-Least-Squares-Method/blob/81807900347a71d9d3d8e58f59e76ca1291cb03e/WhatsApp%20Image%202022-11-15%20at%2021.35.30.jpg)
 
 ## Result:
